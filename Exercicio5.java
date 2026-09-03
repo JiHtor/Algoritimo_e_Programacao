@@ -1,3 +1,11 @@
+/*
+Faça um algoritmo que leia três notas de um aluno:
+calcule e mostre a média aritmética do aluno.
+*/
+
+//Feito por: Heitor Soares da Silva
+
+
 import java.util.Scanner;
 
 public class Exercicio5 {

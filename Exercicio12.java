@@ -1,3 +1,14 @@
+/*
+Faça um algoritmo que receba um número, calcule e mostre:
+O número elevado ao quadrado;
+O número elevado ao cubo;
+A raiz quadrada do número digitado;
+O número elevado a potência 10;
+*/
+
+//Feito por: Heitor Soares da Silva
+
+
 import java.util.Scanner;
 
 public class Exercicio12 {

@@ -1,3 +1,10 @@
+/*
+Construir um algoritmo para ler dois números inteiros
+e imprimir o seu produto.
+*/
+
+//Feito por: Heitor Soares da Silva
+
 import java.util.Scanner;
 
 public class Exercicio31 {

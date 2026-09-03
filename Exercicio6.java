@@ -1,3 +1,13 @@
+/*
+Faça um algoritmo que calcule e imprima o valor de cada 	expressão a seguir:
+– (20 - 15)/2
+– 2 ˆ (5/20) + 30 / (15 ˆ 2)
+– 35 / (6 + 2)
+– 23 módulo 4
+*/
+
+//Feito por: Heitor Soares da Silva
+
 import java.util.Scanner;
 
 public class Exercicio6 {

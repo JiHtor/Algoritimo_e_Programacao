@@ -1,3 +1,13 @@
+/*
+Construir um algoritmo que leia:
+o ano de nascimento de uma pessoa e o ano atual.
+Calcule e mostre:
+a idade dessa pessoa;
+quantos anos essa pessoa terá em 2030.
+*/
+
+//Feito por: Heitor Soares da Silva
+
 import java.util.Scanner;
 
 public class Exercicio11 {
@@ -13,7 +23,7 @@ public class Exercicio11 {
         double idade = ano - nascimento;
         double frente = (2030 - nascimento);
         System.out.println("Sua idade é "+ idade);
-        System.out.println("Voce terá "+ frente);
+        System.out.println("Voce terá "+ frente+ "em 2030");
 
         entrada.close();
 

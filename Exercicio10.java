@@ -1,3 +1,11 @@
+/*
+Construir um algoritmo para imprimir:
+o cálculo da área de um círculo com raio de 5 cm. (π = 3.14159)
+área do círculo = π ˆ r2
+*/
+
+//Feito por: Heitor Soares da Silva
+
 import java.util.Scanner;
 
 public class Exercicio10 {

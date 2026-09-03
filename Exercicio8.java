@@ -1,3 +1,10 @@
+/*
+Faça um algoritmo para apresentar:
+o cálculo da média das seguintes notas 8.0, 7.5, 4.5 e 9.
+*/
+
+//Feito por: Heitor Soares da Silva
+
 import java.util.Scanner;
 
 public class Exercicio8 {

@@ -1,3 +1,10 @@
+/*
+Faça um algoritmo que leia quatro números inteiros.
+calcule e mostre a soma desses números.
+*/
+
+//Feito por: Heitor Soares da Silva
+
 import java.util.Scanner;
 
 public class Exercicio4 {

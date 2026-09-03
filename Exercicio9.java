@@ -1,3 +1,10 @@
+/*
+Faça um algoritmo para apresentar:
+o cálculo da área de um quadrado de 350 metros de lado.
+*/
+
+//Feito por: Heitor Soares da Silva
+
 import java.util.Scanner;
 
 public class Exercicio9{
