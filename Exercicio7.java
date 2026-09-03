@@ -5,15 +5,10 @@ public class Exercicio7 {
         boolean p3 = ((5 % 2) >3);
         boolean p4 = ("a" == "A");
 
-
         System.out.println("O resultado é "+p1);
         System.out.println("O resultado é "+p2);
         System.out.println("O resultado é "+p3);
-        System.out.println("O resultado é "+p4);
-        
-
-        
-
+        System.out.println("O resultado é "+p4);       
     }
     
 }
