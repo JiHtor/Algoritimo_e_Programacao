@@ -11,6 +11,8 @@ public class ExemploIF {
 
         if (pontos >= 1000){
             System.out.println("Parabens voce passou para a fase 2");
+        }else{
+            System.out.println("Voce nao atingiu a pontuação nescessaria. Tente novamente");
         }
         System.out.println("Siga para a proxima entrada");
         entrada.close();
