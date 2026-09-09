@@ -20,6 +20,7 @@ public class Ex6{
         }else {
             System.out.println("Sexo não identificado.");
         }
+        entrada.close();
     }
 }
 
