@@ -20,9 +20,6 @@ public class Ex10 {
         } else{
             System.out.println("O terceiro numero é maior que os outros");
         }
-        entrada.close();
-
-
-            
+        entrada.close();            
     }
 }

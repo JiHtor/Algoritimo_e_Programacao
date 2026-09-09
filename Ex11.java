@@ -27,9 +27,3 @@ public class Ex11 {
         entrada.close();
     }
 }
-/*
-infantilA 5 - 7 anos
-infantilB 8 - 10 anos
-juvenilA 11-13 anos
-juvenilB 14-17 anos
-Sênior 18 anos ou mais*/
