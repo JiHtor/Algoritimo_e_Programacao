@@ -11,10 +11,10 @@ public class Ex6{
         System.out.println("Digite sua altura.");
         Double altura = entrada.nextDouble();
 
-        if(sexo.equalsIgnoreCase("Masculino")) {
+        if(sexo.equals("Masculino")) {
             peso = (72.7 * altura) - 58;   
             System.out.println("Seu peso ideal é "+ peso);
-        }else if (sexo.equalsIgnoreCase("Feminino")){
+        }else if (sexo.equals("Feminino")){
             peso = (62.1 * altura) - 44.7; 
             System.out.println("Seu peso ideal é "+ peso);
         }else {
