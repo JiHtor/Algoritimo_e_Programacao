@@ -7,7 +7,7 @@ public class Ex5 {
         System.out.println("Digite o numero");
         int num = entrada.nextInt();
 
-        if(50 >= num <= 100){
+        if(num >= 50 && num <= 100){
         System.out.println("Pertence ao intervalo");
         }else{
              System.out.println("Não pertence ao intervalo");
