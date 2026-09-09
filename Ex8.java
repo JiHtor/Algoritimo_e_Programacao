@@ -15,10 +15,4 @@ public class Ex8 {
         entrada.close();
     }
 }
-/*Faça um algoritmo que verifique a validade de uma senha 	fornecida pelo usuário.
-sabendo que a senha é R10p5:
-¨ imprimir mensagem de “acesso concedido” ou “acesso negado”.
-Para comparar duas Strings utilizar o método equals();
-ele retorna um valor booleano!
-Exemplo:
-¨ if(senha.equals("R10p5"))*/
+
