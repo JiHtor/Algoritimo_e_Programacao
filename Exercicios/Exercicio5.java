@@ -18,7 +18,7 @@ public class Exercicio5 {
         System.out.println("Digite o valor da segunda nota.");
         double nota2 = entrada.nextDouble();
 
-        System.out.println("Digite o valor da segunda nota.");
+        System.out.println("Digite o valor da tercera nota.");
         double nota3 = entrada.nextDouble();
 
         double media = (nota1 + nota2 + nota3) / 3; 
