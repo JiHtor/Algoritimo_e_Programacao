@@ -26,10 +26,3 @@ public class Ex12 {
         entrada.close();
     }
 }
-/*
-Ler o salário de uma pessoa e calcular e imprimir o desconto do 	
-INSS (calculado‼) de acordo com a tabela a seguir:
-<= R$ 600,00	Isento
-R$ 600,00 e <= R$ 1200,00	20%
-R$ 1200,00 e <= R$ 2000,00	25%
-<= R$ 2000,00	30%*/
