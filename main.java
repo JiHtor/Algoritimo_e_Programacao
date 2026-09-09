@@ -26,8 +26,8 @@ public static void main(String[] args) {
 		System.out.println("O resultado da divisão é: " +(num1 / num2));			
 	}else {
 		System.out.println("Operação Invalida");
-	}
+		}
 
 	
-}
+	}
 }
