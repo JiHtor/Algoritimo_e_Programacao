@@ -2,7 +2,7 @@ public class Exem_metodo {
     public static void main(String[] args) {
         System.out.println("Antes de chamar o método");
         ImprimirInformacoes();
-        System.out.println("Depois de imprimir infirmações");
+        System.out.println("Depois de imprimir informações");
         Depois();
     }
 
