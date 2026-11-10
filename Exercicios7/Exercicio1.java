@@ -9,15 +9,13 @@ public class Exercicio1{
         System.out.println("Terceiro");
         Terceiro();
         }
-    
+            
     public static void Primeiro(){
         System.out.println("Meu primeiro programa com funcoes");
     }
-
     public static void Segundo(){
         System.out.println("Meu primeiro programa com funcoes");
     }
-
     public static void Terceiro(){
         System.out.println("Meu primeiro programa com funcoes");
     }
