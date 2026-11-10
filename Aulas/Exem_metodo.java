@@ -14,7 +14,7 @@ public class Exem_metodo {
         System.out.println("============================");   
     }
     public static void Depois(){
-                Double numero = 10.0;
+        Double numero = 10.0;
         Double calculo = 0.0;
 
         while (numero <= 20){
