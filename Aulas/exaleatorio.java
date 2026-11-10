@@ -11,7 +11,8 @@ public class exaleatorio {
         System.out.println("O numero sorteado é "+ numero);
         if(numero % 2 == 0){
             System.out.println("E ele é par");
-        }else
+        }else{
             System.out.println("E ele é impar");
+        }
     }
 }
