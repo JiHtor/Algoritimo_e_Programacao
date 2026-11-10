@@ -7,10 +7,9 @@ Faça um algoritmo que calcule e imprima o valor de cada 	expressão a seguir:
 */
 
 //Feito por: Heitor Soares da Silva
-
 import java.util.Scanner;
 
-public class Exercicio6 {
+/*public class Exercici6{
     public static void main (String [] args){
 
         Scanner entrada = new Scanner(System.in);
@@ -28,4 +27,4 @@ public class Exercicio6 {
         entrada.close();
 
     }
-}
+}*/
