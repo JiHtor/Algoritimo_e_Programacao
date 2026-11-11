@@ -12,13 +12,10 @@ public class ExemploVetor{
             System.out.println("Digite uma nota:");
             notas[i] = entrada.nextDouble();
         }
-
         System.out.println("imprimindo os elementos do vetor");
         for (int i = 0; i < 5; i++) {
             System.out.println(notas[i]);
         }
-
         entrada.close();
     }
-}
 }
