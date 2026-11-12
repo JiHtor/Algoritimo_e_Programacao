@@ -1,18 +1,14 @@
 package Exercicios7;
 
-public class ExercicioVetores {
-
-    // (a) Retorna o maior valor do vetor
+public class Exercicio6 {
     public static int obterMaior(int[] vetor) {
         int max = vetor[0];
         for (int i = 1; i < vetor.length; i++) {
             if (vetor[i] > max) {
-                max = vetor[i];
-            }
+                max = vetor[i];            }
         }
         return max;
     }
-    // (b) Retorna o menor valor do vetor
     public static int obterMenor(int[] vetor) {
         int min = vetor[0];
         for (int i = 1; i < vetor.length; i++) {
@@ -22,8 +18,6 @@ public class ExercicioVetores {
         }
         return min;
     }
-
-    // (c) Retorna a média entre o maior e o menor valor
     public static double obterMediaExtremos(int[] vetor) {
         int max = obterMaior(vetor);
         int min = obterMenor(vetor);
